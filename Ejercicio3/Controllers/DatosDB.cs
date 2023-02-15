@@ -14,7 +14,7 @@ namespace Ejercicio3.Controllers
         //Constructor vacio
         public DatosDB()
         { 
-            //
+            // COnstructor vacio por si da error el constructor lleno
         }
 
 
